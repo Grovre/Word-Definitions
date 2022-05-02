@@ -1,0 +1,6 @@
+name: WordDefinitions
+version: '${project.version}'
+main: github.grovre.worddefinitions.WordDefinitions
+api-version: 1.18
+authors: [ PoptartFromPluto ]
+website: https://github.com/grovre
